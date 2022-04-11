@@ -57,8 +57,6 @@ vals = nums
 del vals[:]"""
 
 
-print(1 // 2)
-
 
 
 
